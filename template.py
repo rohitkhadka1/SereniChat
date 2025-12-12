@@ -11,7 +11,8 @@ list_of_files = [
     ".env",
     "setup.py",
     'app.py',
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    '.env.example'
 
 ]
 
